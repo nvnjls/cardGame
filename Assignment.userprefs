@@ -1,0 +1,41 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CardGame\controller\ClickButtonCommand.cs">
+    <Files>
+      <File FileName="Assets\CardGame\CardGameContext.cs" Line="37" Column="2" />
+      <File FileName="Assets\strange\extensions\signal\impl\Signal.cs" Line="1" Column="1" />
+      <File FileName="Assets\CardGame\view\UiCard.cs" Line="1" Column="1" />
+      <File FileName="Assets\CardGame\ICardsManager.cs" Line="3" Column="3" />
+      <File FileName="Assets\CardGame\IHUDViewManager.cs" Line="4" Column="18" />
+      <File FileName="Assets\CardGame\CardGameSignals.cs" Line="11" Column="28" />
+      <File FileName="Assets\CardGame\controller\CardGameStartCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets\CardGame\controller\SelectCardCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets\CardGame\controller\SetGameModeCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets\CardGame\view\HUDManager.cs" Line="68" Column="3" />
+      <File FileName="Assets\CardGame\controller\ShowResultCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets\CardGame\controller\ShowWarningCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets\strange\extensions\injector\impl\Injector.cs" Line="1" Column="1" />
+      <File FileName="Assets\CardGame\CardManager.cs" Line="67" Column="35" />
+      <File FileName="Assets\CardGame\controller\UpdateAIScoreCommand.cs" Line="16" Column="1" />
+      <File FileName="Assets\CardGame\controller\UpdatePlayerScoreCommand.cs" Line="15" Column="32" />
+      <File FileName="Assets\CardGame\CardGameBootstrap.cs" Line="6" Column="1" />
+      <File FileName="Assets\CardGame\controller\ClickButtonCommand.cs" Line="13" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Surender\Projects\GoLiveAssignment\Assignment\Assets\HelloWorld\Common\view\ButtonView.cs" line="50" />
+      <Breakpoint file="C:\Surender\Projects\GoLiveAssignment\Assignment\Assets\HelloWorld\Common\view\ButtonMouseMediator.cs" line="17" />
+      <Breakpoint file="C:\Surender\Projects\GoLiveAssignment\Assignment\Assets\HelloWorld\Common\view\ButtonMouseMediator.cs" line="22" />
+      <Breakpoint file="C:\Surender\Projects\GoLiveAssignment\Assignment\Assets\HelloWorld\Common\view\ButtonMouseMediator.cs" line="27" />
+      <Breakpoint file="C:\Surender\Projects\GoLiveAssignment\Assignment\Assets\HelloWorld\Common\view\ButtonMouseMediator.cs" line="32" />
+      <Breakpoint file="C:\Surender\Projects\GoLiveAssignment\Assignment\Assets\CardGame\Common\view\ButtonView.cs" line="50" />
+      <Breakpoint file="C:\Surender\Projects\GoLiveAssignment\Assignment\Assets\CardGame\Common\view\ButtonView.cs" line="57" />
+      <Breakpoint file="C:\Surender\Projects\GoLiveAssignment\Assignment\Assets\CardGame\Common\view\ButtonMouseMediator.cs" line="17" />
+      <Breakpoint file="C:\Surender\Projects\GoLiveAssignment\Assignment\Assets\CardGame\Common\view\ButtonMouseMediator.cs" line="22" />
+      <Breakpoint file="C:\Surender\Projects\GoLiveAssignment\Assignment\Assets\CardGame\Common\view\ButtonMouseMediator.cs" line="27" />
+      <Breakpoint file="C:\Surender\Projects\GoLiveAssignment\Assignment\Assets\CardGame\Common\view\ButtonMouseMediator.cs" line="32" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
